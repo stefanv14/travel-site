@@ -1,0 +1,14 @@
+[
+  {
+    "imageUrl":"images/slider1.png",
+    "imageDesc":"Amsterdam, Netherlands"
+  },
+  {
+    "imageUrl":"images/slider2.png",
+    "imageDesc":"New York, United States"
+  },
+  {
+    "imageUrl":"images/slider3.png",
+    "imageDesc":"Barcelona, Spain"
+  }
+]
